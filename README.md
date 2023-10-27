@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there! ✨
+Thanks for stopping by my Github profile! Check out my website <a href = "https://crasgaitis.github.io/"> here</a>.
+
+<img src = "https://github-readme-stats-eight-theta.vercel.app/api?username=crasgaitis&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
 
 <!--
 **crasgaitis/crasgaitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
