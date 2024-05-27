@@ -1,7 +1,7 @@
 ### Hey there! ✨
-Thanks for stopping by my Github profile! Check out my website <a href = "https://crasgaitis.github.io/"> here</a>.
+Thanks for stopping by my Github profile! Check out my personal website <a href = "https://crasgaitis.github.io/"> here</a>.
 
-<img src = "https://github-readme-stats-eight-theta.vercel.app/api?username=crasgaitis&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+<img src = "https://github-readme-stats-eight-theta.vercel.app/api?username=crasgaitis&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height='160'> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=crasgaitis&hide_progress=true&theme=radical" height='160'>
 
 My quick links:
 - <a href = "https://github.com/crasgaitis/opticars"> Opticars </a>
