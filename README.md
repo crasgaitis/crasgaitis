@@ -6,6 +6,7 @@ Thanks for stopping by my Github profile! Check out my personal website <a href 
 My quick links:
 - <a href = "https://github.com/crasgaitis/opticars"> Opticars </a>
 - <a href = "https://github.com/crasgaitis/looking-glass"> Looking Glass </a>
+- <a href = "https://github.com/Hou-Lab-CSHL/mouse-fe-analysis/tree/main"> Hou Lab - mouse-fe-analysis </a>
 - <a href = "https://github.com/Noble-Lab/2023_catraz_twinc-cis/tree/main">Noble Lab TwinC </a>
 - <a href = "https://github.com/aolabNeuro/brain-python-interface"> AOLab - brain-python-interface </a>
 - <a href = "https://github.com/aolabNeuro/analyze"> AOLab - analyze (aopy)
