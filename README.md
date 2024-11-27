@@ -10,6 +10,7 @@ My quick links:
 - <a href = "https://github.com/Noble-Lab/2023_catraz_twinc-cis/tree/main">Noble Lab TwinC </a>
 - <a href = "https://github.com/aolabNeuro/brain-python-interface"> AOLab - brain-python-interface </a>
 - <a href = "https://github.com/aolabNeuro/analyze"> AOLab - analyze (aopy)
+- <a href = "https://github.com/users/camilolaiton/projects/1/views/1"> AIND - SmartSPIM Image Compression </a>
 - <a href = "https://github.com/crasgaitis/neural_signatures"> Neural signatures (private repo) </a>
 
 <!--
