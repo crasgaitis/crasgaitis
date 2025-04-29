@@ -7,6 +7,7 @@ My quick links:
 - <a href = "https://github.com/crasgaitis/truthinators"> Truthinator 3000 </a>
 - <a href = "https://github.com/crasgaitis/looking-glass"> Looking Glass </a>
 - <a href = "https://github.com/crasgaitis/eeg_webshooter"> EEG Webshooter </a>
+- <a href = "https://github.com/crasgaitis/llm_moral_plasticity"> Moral Plasticity </a>
 - <a href = "https://github.com/crasgaitis/opticars"> Opticars </a>
 - <a href = "https://github.com/crasgaitis/astro.munch"> AstroMunch </a>
 - <a href = "https://github.com/Hou-Lab-CSHL/mouse-fe-analysis/tree/main"> Hou Lab - mouse-fe-analysis </a>
